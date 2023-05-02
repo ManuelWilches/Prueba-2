@@ -1,2 +1,3 @@
-# Prueba-2
-This is only a test 
+Manuel WIlches 
+This is a test on how to clone a directory 
+
